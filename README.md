@@ -1,6 +1,6 @@
 📚 Skills
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-flat&logo=javascript&logoColor=black">
 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-flat&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-flat&logo=react&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-flat&logo=TypeScript&logoColor=white"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-flat&logo=Node.js&logoColor=white"><br><img src="https://img.shields.io/badge/Create React App-09D3AC?style=for-the-flat&logo=Create React App&logoColor=white"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-flat&logo=Next.js&logoColor=white">
 
