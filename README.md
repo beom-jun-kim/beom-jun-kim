@@ -12,6 +12,11 @@
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/framer-0055FF?style=flat-square&logo=framer&logoColor=white">
 
 
+🌎 framework <br>
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white">
+
+
 ⌨️ programming <br>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
@@ -25,10 +30,6 @@
 📊 data <br>
 <br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/graphql-E10098?style=flat-square&logo=graphql&logoColor=white">
-
-🌎 framework <br>
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white">
 
 
 🏢 build & deploy <br>
