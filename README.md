@@ -30,7 +30,7 @@
 📊 data <br>
 <br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/graphql-E10098?style=flat-square&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white">
-
+<img src="https://img.shields.io/badge/vitess-F16728?style=flat-square&logo=vitess&logoColor=white"> <img src="https://img.shields.io/badge/planetscale-000000?style=flat-square&logo=planetscale&logoColor=white">
 
 🏢 build & deploy <br>
 <br>
