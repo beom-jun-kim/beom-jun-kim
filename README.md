@@ -22,7 +22,7 @@
 
 management <br>
 <br>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/gitDesktop-541BAE?style=flat-square&logo=gitDesktop&logoColor=white">
 <br>
 
 🏢 deploy <br>
