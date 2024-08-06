@@ -4,6 +4,4 @@
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/gitDesktop-541BAE?style=flat-square&logo=gitDesktop&logoColor=white">
-
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white">
