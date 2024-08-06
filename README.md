@@ -45,6 +45,10 @@
 
 <br>
 
-![kimbeomjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=apprentice&include_all_commits=true&show_icons=true&rank_icon=github)
+<a href="s">
+<img src="https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=apprentice&include_all_commits=true&show_icons=true&rank_icon=github" width="42%"/>
+</a>
 
-
+<a href="s">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beom-jun-kim&theme=tokyonight" width="50.3%"/>
+</a>
