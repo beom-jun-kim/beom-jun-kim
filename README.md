@@ -16,4 +16,4 @@
 ![GitHubDeskTop](https://img.shields.io/badge/GitHubDeskTop-330F63?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=vue-dark&include_all_commits=true&show_icons=true)
