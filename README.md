@@ -1,4 +1,4 @@
-<div align=center>
+
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome%20Beomjun's%20GitHub%20🚗🚘🚛&fontSize=30)
 
@@ -31,4 +31,4 @@
 
 ![kimbeomjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=apprentice&include_all_commits=true&show_icons=true&rank_icon=github)
 
-</div>
+
