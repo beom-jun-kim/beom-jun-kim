@@ -23,5 +23,5 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=apprentice&include_all_commits=true&show_icons=true)
+![kimbeomjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=shades-of-purple&include_all_commits=true&show_icons=true&hide_progress=true)
 </div>
