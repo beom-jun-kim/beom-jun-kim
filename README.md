@@ -50,5 +50,5 @@
 </a>
 
 <a href="s">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beom-jun-kim&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beom-jun-kim&theme=tokyonight" width="54%"/>
 </a>
