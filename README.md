@@ -46,9 +46,9 @@
 <br>
 
 <a href="s">
-<img src="https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=apprentice&include_all_commits=true&show_icons=true&rank_icon=github" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=apprentice&include_all_commits=true&show_icons=true&rank_icon=github&hide_border=true" width="45%"/>
 </a>
 
 <a href="s">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beom-jun-kim&theme=tokyonight" width="54%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beom-jun-kim&theme=apprentice&hide_border=true" width="54%"/>
 </a>
