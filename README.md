@@ -14,3 +14,6 @@
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHubDeskTop](https://img.shields.io/badge/GitHubDeskTop-330F63?style=for-the-badge&logo=GitHub&logoColor=white)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=merko)
