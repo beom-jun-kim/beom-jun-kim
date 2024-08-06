@@ -6,4 +6,4 @@
 
 <img src="https://img.shields.io/badge/Heroku-3D424D?style=flat-square&logo=Heroku&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-3D424D?style=flat-square&logo=Amazon AWS&logoColor=white">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbeomjun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbeomjun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
