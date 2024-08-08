@@ -26,7 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-#### Manage
+#### Management
 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHubDeskTop](https://img.shields.io/badge/GitHubDeskTop-330F63?style=for-the-badge&logo=GitHub&logoColor=white)
