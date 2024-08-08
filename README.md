@@ -1,6 +1,6 @@
 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome%20Beomjun's%20GitHub%20🚗🚘🚛&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&animation=fadeIn&text=Welcome%20Beomjun's%20GitHub%20🚗🚘🚛&fontSize=35&strokeWidth=1&fontAlignY=35)
 
 
 <h1>🛠️ Stacks</h1>
