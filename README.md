@@ -45,15 +45,15 @@
 #
 <br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=beom-jun-kim&theme=gruvbox&title=Repositories,PullRequest,Commits,Experience,Followers&margin-w=15)](https://github.com/beom-jun-kim/)
+
+#
+<br>
+
 <a href="s">
 <img src="https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=apprentice&include_all_commits=true&show_icons=true&hide_border=true&rank_icon=github" width="45%"/>
 </a>
 <a href="s">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=beom-jun-kim&theme=apprentice&hide_border=true" width="54%"/>
 </a>
-
-#
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=beom-jun-kim&theme=gruvbox&title=Repositories,PullRequest,Commits,Experience,Followers&margin-w=15)](https://github.com/beom-jun-kim/)
 
