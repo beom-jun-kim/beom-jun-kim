@@ -42,13 +42,13 @@
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-#
 <br>
+<h4>GitHub Trophy.</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beom-jun-kim&theme=gruvbox&title=Repositories,PullRequest,Commits,Experience,Followers&margin-w=15)](https://github.com/beom-jun-kim/)
 
-#
-<br>
+
+#### GitHub Stats.
 
 <a href="s">
 <img src="https://github-readme-stats.vercel.app/api?username=beom-jun-kim&hide=contribs&show=prs_merged,prs_merged_percentage&theme=apprentice&include_all_commits=true&show_icons=true&hide_border=true&rank_icon=github" width="45%"/>
