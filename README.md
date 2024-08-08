@@ -51,3 +51,9 @@
 <a href="s">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=beom-jun-kim&theme=apprentice&hide_border=true" width="54%"/>
 </a>
+
+#
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=beom-jun-kim&theme=gruvbox&title=Repositories,PullRequest,Commits,Experience,Followers&margin-w=15)](https://github.com/beom-jun-kim/)
+
