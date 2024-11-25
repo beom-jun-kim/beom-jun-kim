@@ -1,6 +1,6 @@
 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&animation=fadeIn&text=Beomjun's%20GitHub%20🚗🚘🚛&fontSize=30&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&animation=fadeIn&text=Beomjun's%20GitHub%20🚗🚘🚛&fontSize=25&fontAlignY=25)
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
