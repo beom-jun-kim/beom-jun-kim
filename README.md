@@ -8,7 +8,7 @@
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-<br>
+
 <h4>GitHub Trophy.</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beom-jun-kim&theme=gruvbox&title=Repositories,PullRequest,Commits,Experience,Followers&margin-w=20)](https://github.com/beom-jun-kim/)
