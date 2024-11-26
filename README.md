@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&animation=fadeIn&text=Beomjun's%20GitHub%20🚗🚘🚛&fontSize=20&fontAlignY=20)
 
-<br>
 <h4>Stack.</h4>
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
