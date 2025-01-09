@@ -9,7 +9,7 @@
 
 <h4>GitHub Trophy.</h4>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=beom-jun-kim&theme=gruvbox&title=Repositories,PullRequest,Commits,Experience,Followers&margin-w=20)](https://github.com/beom-jun-kim/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=beom-jun-kim&theme=gruvbox&title=Repositories,PullRequest,Commits&margin-w=20)](https://github.com/beom-jun-kim/)
 
 
 #### GitHub Stats.
