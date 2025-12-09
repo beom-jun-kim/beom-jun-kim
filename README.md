@@ -1,14 +1,3 @@
-
-<h4>Stack.</h4>
-
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![NEXT.JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-
-
 <h4>GitHub Trophy.</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beom-jun-kim&theme=gruvbox&title=Repositories,PullRequest,Commits&margin-w=20)](https://github.com/beom-jun-kim/)
